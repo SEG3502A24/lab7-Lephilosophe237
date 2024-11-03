@@ -1,5 +1,12 @@
 # Joel Stephane Ngando
 # 300121572 
+Book author : <br>
+![image](https://github.com/user-attachments/assets/b73e46c8-4a2c-43f8-9070-efb3c434b8d8)
+<br>
+Book: <br>
+![image](https://github.com/user-attachments/assets/2be5d5e0-24c1-4018-a22f-179445a58bec)
+
+
 # BookStore Angular client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
