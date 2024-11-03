@@ -1,4 +1,6 @@
-# BookStore
+# Joel Stephane Ngando
+# 300121572 
+# BookStore Angular client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
